@@ -1,0 +1,1 @@
+export const imageNotAvailable = '/images/image_not_available.png';
